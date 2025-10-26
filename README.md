@@ -1,2 +1,5 @@
-# cpp-input-validation
-c++ input validation c1
+/******************************************************
+
+compiled high school lessons into a simple mini project
+
+******************************************************/
