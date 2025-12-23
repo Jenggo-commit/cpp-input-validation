@@ -13,7 +13,7 @@ int main()
     
     x = pow(x, 2);
     y = pow(y, 2);
-    z = sqrt(x + y);
+    z = sqrt(x + y); //z = sqrt(pow(y, 2) + pow(x, 2));
     
     cout << "The Hypotenuse: " << z;
     
